@@ -1,6 +1,6 @@
 ---
-name: "✅ 이슈 생성 템플릿"
-about: 해당 이슈 생성 템플릿을 사용하여 이슈를 생성해주세요.
+name: "\U0001F4A1 Request 템플릿"
+about: Pull Request 템플릿
 title: ''
 labels: ''
 assignees: ''
